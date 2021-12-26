@@ -1,5 +1,3 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-
-* [前言](111.md)
+* [🌭 6 steps to get started](README.md)
